@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cusojava{
+public class JavaQuatro{
     public static void main(String[] args){
         
         @SuppressWarnings("resource")

@@ -5,9 +5,9 @@ import java.util.Arrays;
 public class JavaSete{
     public static void main(String[] args) {
         
-        final int tam = 10;
+        //final int tam = 10;
         int[] num = {6,5,8,9,1,4,2,8,3,1};
-        int[] numeros = new int[tam];
+        //int[] numeros = new int[tam];
         int p = 1;
         int pos;
 

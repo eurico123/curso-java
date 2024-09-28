@@ -1,4 +1,4 @@
-public class CursoJava {
+public class JavaDois {
     public static void main(String[] args){
 
         int n1=10;

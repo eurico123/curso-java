@@ -1,4 +1,4 @@
-public class CursoJava {
+public class JavaTres {
     public static void main(String[] args){
         
         int pos = 7;

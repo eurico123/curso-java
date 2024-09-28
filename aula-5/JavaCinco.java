@@ -1,5 +1,5 @@
 
-public class CursoJavaCinco {
+public class JavaCinco {
     public static void main(String[] args) {
         
         // FOR
