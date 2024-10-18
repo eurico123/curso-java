@@ -1,3 +1,4 @@
+/* 
 public class Animal implements SerVivo{
     public Boolean vivo;
     public Animal(){
@@ -10,3 +11,4 @@ public class Animal implements SerVivo{
         System.out.printf("Vivo: %s", this.vivo ? "Sim" : "Não");
     }
 }
+*/
